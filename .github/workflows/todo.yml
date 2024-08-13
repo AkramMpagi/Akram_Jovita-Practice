@@ -1,7 +1,7 @@
 name: cicd workflow
 on:
   pull_request: 
-   branches: ["staging"]
+   branches: ["feature_add_list"]
 
 jobs: 
 build:
